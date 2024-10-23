@@ -1,6 +1,6 @@
 # Deu match
 
-## Surpresas do casamento de padrões
+## O surpreendente casamento de padrões
 
 Fiz várias melhorias no [notebook](match-surpresas.ipynb) depois da Python Brasil 2024.
 
